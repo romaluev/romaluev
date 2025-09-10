@@ -2,7 +2,7 @@
 
 I'm a developer & builder. Working on real products, experimenting with SaaS, automation, and content.
 
-- 🔨 Co-Founder @ OshLab — tools for future Cafe & Restaurants
+- 🔨 Co-Founder @ [OshLab](https://oshlab.uz) — tools for future Cafe & Restaurants
 - 💻 Building with Go, Laravel, Next, and TypeScript
 - 🧠 Interested in startups, micro-SaaS, and AI
 
