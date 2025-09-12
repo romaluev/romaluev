@@ -1,5 +1,9 @@
 ### Hi, I’m Roma 👋
+---
 
+<img src="https://komarev.com/ghpvc/?username=MarsX-2002&color=blueviolet" alt="Profile Views" />
+
+---
 I'm a developer & builder. Working on real products, experimenting with SaaS, automation, and content.
 
 - 🔨 Co-Founder @ [OshLab](https://oshlab.uz) — tools for future Cafe & Restaurants
