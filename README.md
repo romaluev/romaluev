@@ -1,6 +1,4 @@
 ### Hi, I’m Roma 👋
----
-
 <img src="https://komarev.com/ghpvc/?username=romaluev&color=blueviolet" alt="Profile Views" />
 
 ---
